@@ -1,0 +1,51 @@
+{
+    "tables": [
+        {
+            "1": "developing",
+            "2": "average",
+            "3": "dramatically",
+            "4": "results",
+            "5": "shared",
+            "6": "basis",
+            "7": "monitor",
+            "8": "including",
+            "9": "detection",
+            "10": "symptoms",
+            "11": "distributed",
+            "12": "symbols",
+            "13": "reason",
+			"14": "consequently",
+            "15": "common"
+        }
+    ],
+	"articles": {
+		"1":"It's the first question parents ask when their child is diagnosed with autism (自闭症). Will his future brothers or sisters have a higher risk of 1 <span id=\"test-tabs1\"></span> it, too? According to the largest study of siblings (兄弟姐妹) in families with autism, the answer is yes. Among 664 children who had at least one older sibling with the developmental disorder,the 2 <span id=\"test-tabs2\"></span> risk of autism was nearly 19%, 3 <span id=\"test-tabs3\"></span>higher than previous sibling-recurrence estimates that were anywhere from 3% to 10%. Kids with more than one older autistic sibling had an even higher risk of the disorder:32%. The 4 <span id=\"test-tabs4\"></span> suggest that genes play a key role in autism risk. But they also hint that other environmental factors 5 <span id=\"test-tabs5\"></span> by siblings, like influences in the womb (子宫), may be important as well. On the 6 <span id=\"test-tabs6\"></span> of the findings, the researchers recommend that doctors closely 7 <span id=\"test-tabs7\"></span>younger siblings of autistic children to pick up any early signs of the disorder, 8 <span id=\"test-tabs8\"></span> an unusually large head or delayed language development and communication skills.Evidence suggests that early 9 <span id=\"test-tabs9\"></span> and diagnosis of autism can help children take advantage of therapies that can treat some of its 10 <span id=\"test-tabs10\"></span>"
+	},
+	"articles1": {
+		"1": "It's the first question parents ask when their child is diagnosed with autism (自闭症). Will his future brothers or sisters have a higher<span class=\"keynotes test-highlight1\"> risk of</span> 1 <span id=\"test-tabs1\" class=\"clicked\"></span> it, too? According to the largest study of siblings (兄弟姐妹) in families with autism, the answer is yes. Among 664 children who had at least one older sibling with the developmental<span class=\"keynotes test-highlight2\"> disorder</span>,the 2 <span id=\"test-tabs2\" class=\"clicked\"></span> risk of<span class=\"keynotes test-highlight2\"> autism</span> was nearly 19%, 3 <span id=\"test-tabs3\" class=\"clicked\"></span> <span class=\"keynotes test-highlight3\">higher </span>than<span class=\"keynotes test-highlight3\"> previous sibling-recurrence estimates</span> that were anywhere from 3% to 10%. Kids with more than one older autistic sibling had an even higher risk of the disorder:<span class=\"keynotes test-highlight4\"> 32%. </span>The 4 <span id=\"test-tabs4\" class=\"clicked\"></span> suggest that genes play a key role in autism risk. But they also hint that<span class=\"keynotes test-highlight5\"> other environmental factors</span> 5 <span id=\"test-tabs5\" class=\"clicked\"></span> by siblings, like influences in the womb (子宫), may be important as well. On the 6 <span id=\"test-tabs6\" class=\"clicked\"></span> of<span class=\"keynotes test-highlight6\"> the findings</span>, the researchers recommend that <span class=\"keynotes test-highlight7\">doctors closely </span>7 <span id=\"test-tabs7\" class=\"clicked\"></span> <span class=\"keynotes test-highlight7\">younger siblings</span> of autistic children to pick up any early signs of the<span class=\"keynotes test-highlight8\"> disorder</span>, 8 <span id=\"test-tabs8\" class=\"clicked\"></span> an unusually large head or delayed language development and communication skills.<span class=\"keynotes test-highlight9\">Evidence</span> suggests that early 9 <span id=\"test-tabs9\" class=\"clicked\"></span> and<span class=\"keynotes test-highlight9\"> diagnosis </span>of autism can help children take advantage of therapies that can<span class=\"keynotes test-highlight10\"> treat some of its </span>10 <span id=\"test-tabs10\" class=\"clicked\"></span>"
+	},
+	"answers": {
+		"1": "developing",
+		"2": "average",
+		"3": "dramatically",
+		"4": "results",
+		"5": "shared",
+		"6": "basis",
+		"7": "monitor",
+		"8": "including",
+		"9": "detection",
+		"10": "symptoms"
+	},	
+	"analysis": {
+		"1": "第一题的文字解析",
+		"2": "第二题的文字解析",
+		"3": "第三题的文字解析",
+		"4": "第四题的文字解析",
+		"5": "第五题的文字解析",
+		"6": "第六题的文字解析",
+		"7": "第七题的文字解析",
+		"8": "第八题的文字解析",
+		"9": "第九题的文字解析",
+		"10": "第十题的文字解析"
+	}
+}
