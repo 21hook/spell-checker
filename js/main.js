@@ -3,35 +3,19 @@
 	buildText: function(text) {
 		return '<p class="test-text">'+text.articles1['1']+'</p>';
 	},
-	buildTable: function(table) {
-	var html='<table class="test-table">'
-		html+='<tr>',
-		html+=	'<td>'+table['0']+'</td>',
-		html+=	'<td>'+table['1']+'</td>',
-		html+=	'<td>'+table['2']+'</td>',
-		html+='</tr>',
-		html+='<tr>',
-		html+=	'<td>'+table['3']+'</td>',
-		html+=	'<td>'+table['4']+'</td>',
-		html+=	'<td>'+table['5']+'</td>',
-		html+='</tr>',
-		html+='<tr>',
-		html+=	'<td>'+table['6']+'</td>',
-		html+=	'<td>'+table['7']+'</td>',
-		html+=	'<td>'+table['8']+'</td>',
-		html+='</tr>',
-		html+='<tr>',
-		html+=	'<td>'+table['9']+'</td>',
-		html+=	'<td>'+table['10']+'</td>',
-		html+=	'<td>'+table['11']+'</td>',
-		html+='</tr>',
-		html+='<tr>',
-		html+=	'<td>'+table['12']+'</td>',
-		html+=	'<td>'+table['13']+'</td>',
-		html+=	'<td>'+table['14']+'</td>',
-		html+='</tr>',
-		html+='</table>';
-	return html;	
+	buildTable: function(table) {	
+		html = '<table class="test-table">';
+		
+		for(var i=0; i<5; i++) {
+			html += '<tr>';
+			for(var j=3*i; j<3*i + 3; j++) {
+				html += '<td>' + table[j] + '</td>';
+			}
+			html += '</tr>';
+		}
+		html += '</table>';
+		
+		return html;
 }
 });
 })(jQuery);
